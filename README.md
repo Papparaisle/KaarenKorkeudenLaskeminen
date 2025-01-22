@@ -1,1 +1,1 @@
-# test
+# Kaareksi laajenneen terästangon korkeuden laskeminen
